@@ -1,0 +1,51 @@
+/* Header styling */
+
+.nameBG{
+    background-color: #4aaaa5;
+}
+
+.headBg{
+    background-color: #ffffff;
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    border-bottom: 1px solid #cccccc;
+}
+
+/* main styling */
+ .main{
+     background-image: url(assets/images/fancy-cushion.png)
+ }
+
+ .contentBox{
+   background-color: #ffffff;
+    color: #777777;
+    top:10px;
+ }
+
+ .projects{
+    background-color: #4aaaa5;
+    color:#ffffff ;
+    position: relative;
+    bottom:20%;
+    
+ }
+
+ .image{
+     float:left;
+  } 
+
+ .footerStyle{
+     background-color: #666666;
+     color: white;
+     border-top: 8px solid #4aaaa5;
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     height: 100px;
+     width: 100%;
+
+ }
+
+ .align{
+    top: 80%;
+ }
